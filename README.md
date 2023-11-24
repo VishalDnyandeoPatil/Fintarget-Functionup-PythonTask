@@ -1,1 +1,1 @@
-# algowizTask
+# Fintarget-Functionup-PythonTask
